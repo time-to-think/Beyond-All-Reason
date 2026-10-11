@@ -9,3 +9,4 @@
 /recoil-lua-library
 /lux.toml
 /.busted
+/tools/llm_duel

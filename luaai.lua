@@ -9,6 +9,14 @@
 
 return {
 	{
+		name = "LLM Duel Local",
+		desc = "Capstone local model (use tools/llm_duel launcher)",
+	},
+	{
+		name = "LLM Duel Cloud",
+		desc = "Capstone cloud model (use tools/llm_duel launcher)",
+	},
+	{
 		name = "SimpleAI",
 		desc = "EasyAI",
 	},

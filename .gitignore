@@ -8,3 +8,6 @@
 .project
 *.code-workspace
 .lux
+/tools/llm_duel/runs/
+/tools/llm_duel/__pycache__/
+/CAPSTONE_MEETING_CONTEXT.md
